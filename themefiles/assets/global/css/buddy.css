@@ -1,0 +1,115 @@
+.buddy-nav{display:block;}
+.search-buddy{float:left;margin-left:252px;  text-align:center;}
+#search-buddy-list input[type="text"] {
+	color: #102f3e;
+	width: 250px;
+
+	background-color: #FFF;
+	background-image: url(../images/search-blue.png);
+	background-repeat: no-repeat;
+	background-position: 245px;
+	font-family: raleway;
+	font-size: 14px;
+	font-weight: normal;
+	padding-top: 11px;
+	padding-right: 15px;
+	padding-bottom: 11px;
+	padding-left: 5px;
+	border: thin solid #a9b1b6;
+    }
+	
+.buddy{
+	margin-top: 20px;
+	margin-left: 6%;
+	margin-bottom:15px;
+	
+	height: 290px;
+	width: 273px;
+	display: inline-block;
+	text-align: center;
+}
+.dp{
+	cursor:pointer;
+	height: 136px;
+	width: 136px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top:20px;
+}
+.cancel{
+	position: relative;
+	left: 244px;
+	float: left;
+	bottom: 140px;
+}
+.buddy-name{
+	margin-top: 20px;
+	padding: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	font-family: raleway;
+	font-size: 20px;
+	font-weight: normal;
+	color: #414141;
+}
+.location{
+	width: 273px;
+	text-align: center;	
+	margin-top:5px;
+	
+	
+}
+.location-icon{
+	text-align: center;
+	vertical-align: middle;
+	margin-right:8px;
+}
+.location-name{
+	font-family: raleway;
+	font-size:18px;
+	color:#848484;
+}
+.buddy-btn {
+	background-color: #23b9f1;
+	font-size: 18px;
+	font-weight: normal;
+	color: #FFF;
+	text-decoration: none;
+	text-align: left;
+	vertical-align: middle;
+	height: 40px !important;
+	width: 210px;
+	padding-top: 8px;
+	margin-top: 5px;
+	padding-bottom: 8px;
+	padding-left: 10px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;	
+}
+.buddy-btn:hover {
+	background-color: #62ccf4;
+	font-size: 18px;
+	font-weight: normal;
+	color: #FFF;
+	text-decoration: none;
+	text-align: left;
+	vertical-align: middle;
+	height: 40px !important;
+	width: 210px;
+	padding-top: 8px;
+	margin-top: 5px;
+	padding-bottom: 8px;
+	padding-left: 10px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.chat-img{
+	text-align: center;
+	vertical-align: middle;
+	margin-right:5px;
+}

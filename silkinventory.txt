@@ -1,0 +1,921 @@
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>index</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api'> http://localhost/silkinventory/index.php?r=api</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>index</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api'> http://localhost/silkinventory/index.php?r=api</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>login</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/login
+    [email] => vishal.panchal@bypt.in
+    [password] => 111111
+    [device_token] => 111111
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/login&email=vishal.panchal%40bypt.in&password=111111&device_token=111111'> http://localhost/silkinventory/index.php?r=api/login&email=vishal.panchal%40bypt.in&password=111111&device_token=111111</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>login</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/login
+    [email] => vishal.panchal@bypt.in
+    [password] => 111111
+    [device_token] => 111111
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/login&email=vishal.panchal%40bypt.in&password=111111&device_token=111111'> http://localhost/silkinventory/index.php?r=api/login&email=vishal.panchal%40bypt.in&password=111111&device_token=111111</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>index</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api'> http://localhost/silkinventory/index.php?r=api</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>AddInventory</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/AddInventory
+    [user_id] => 1
+    [session_code] => 111111
+    [inventory_type] => 1
+    [brand_name] => Tshirt
+    [style_name] => 1
+    [color] => white
+    [cloth_size] => 1
+    [attire_type] => test
+    [weather_type] => 1
+    [sleeve_type] => 1
+    [device_token] => 333333
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/AddInventory&user_id=1&session_code=111111&inventory_type=1&brand_name=Tshirt&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333'> http://localhost/silkinventory/index.php?r=api/AddInventory&user_id=1&session_code=111111&inventory_type=1&brand_name=Tshirt&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>login</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/login
+    [email] => vishal.panchal@bypt.in
+    [password] => 111111
+    [device_token] => 111111
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/login&email=vishal.panchal%40bypt.in&password=111111&device_token=111111'> http://localhost/silkinventory/index.php?r=api/login&email=vishal.panchal%40bypt.in&password=111111&device_token=111111</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>AddInventory</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/AddInventory
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [inventory_type] => 1
+    [brand_name] => Tshirt
+    [style_name] => 1
+    [color] => white
+    [cloth_size] => 1
+    [attire_type] => test
+    [weather_type] => 1
+    [sleeve_type] => 1
+    [device_token] => 333333
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/AddInventory&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333'> http://localhost/silkinventory/index.php?r=api/AddInventory&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>AddInventory</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/AddInventory
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [inventory_type] => 1
+    [brand_name] => Tshirt2
+    [style_name] => 1
+    [color] => white
+    [cloth_size] => 1
+    [attire_type] => test
+    [weather_type] => 1
+    [sleeve_type] => 1
+    [device_token] => 333333
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/AddInventory&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt2&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333'> http://localhost/silkinventory/index.php?r=api/AddInventory&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt2&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>AddInventory</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/AddInventory
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [inventory_type] => 1
+    [brand_name] => Tshirt2
+    [style_name] => 1
+    [color] => white
+    [cloth_size] => 1
+    [attire_type] => test
+    [weather_type] => 1
+    [sleeve_type] => 1
+    [device_token] => 333333
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/AddInventory&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt2&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333'> http://localhost/silkinventory/index.php?r=api/AddInventory&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt2&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>AddInventory</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/AddInventory
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [inventory_type] => 1
+    [brand_name] => Tshirt3
+    [style_name] => 1
+    [color] => white
+    [cloth_size] => 1
+    [attire_type] => test
+    [weather_type] => 1
+    [sleeve_type] => 1
+    [device_token] => 333333
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/AddInventory&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt3&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333'> http://localhost/silkinventory/index.php?r=api/AddInventory&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt3&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>index</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api'> http://localhost/silkinventory/index.php?r=api</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>index</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api'> http://localhost/silkinventory/index.php?r=api</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>updateInventory</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/updateInventory
+    [invenotry_id] => 1
+    [user_id] => 1
+    [session_code] => 111111
+    [inventory_type] => 1
+    [brand_name] => Tshirt
+    [style_name] => 1
+    [color] => white
+    [cloth_size] => 1
+    [attire_type] => test
+    [weather_type] => 1
+    [sleeve_type] => 1
+    [device_token] => 333333
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/updateInventory&invenotry_id=1&user_id=1&session_code=111111&inventory_type=1&brand_name=Tshirt&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333'> http://localhost/silkinventory/index.php?r=api/updateInventory&invenotry_id=1&user_id=1&session_code=111111&inventory_type=1&brand_name=Tshirt&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>updateInventory</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/updateInventory
+    [invenotry_id] => 1
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [inventory_type] => 1
+    [brand_name] => Tshirt
+    [style_name] => 1
+    [color] => white
+    [cloth_size] => 1
+    [attire_type] => test
+    [weather_type] => 1
+    [sleeve_type] => 1
+    [device_token] => 333333
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/updateInventory&invenotry_id=1&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333'> http://localhost/silkinventory/index.php?r=api/updateInventory&invenotry_id=1&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>updateInventory</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/updateInventory
+    [inventory_id] => 1
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [inventory_type] => 1
+    [brand_name] => Tshirt
+    [style_name] => 1
+    [color] => white
+    [cloth_size] => 1
+    [attire_type] => test
+    [weather_type] => 1
+    [sleeve_type] => 1
+    [device_token] => 333333
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/updateInventory&inventory_id=1&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333'> http://localhost/silkinventory/index.php?r=api/updateInventory&inventory_id=1&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>updateInventory</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/updateInventory
+    [inventory_id] => 1
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [inventory_type] => 1
+    [brand_name] => Tshirt5
+    [style_name] => 1
+    [color] => white
+    [cloth_size] => 1
+    [attire_type] => test
+    [weather_type] => 1
+    [sleeve_type] => 1
+    [device_token] => 333333
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/updateInventory&inventory_id=1&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt5&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333'> http://localhost/silkinventory/index.php?r=api/updateInventory&inventory_id=1&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&inventory_type=1&brand_name=Tshirt5&style_name=1&color=white&cloth_size=1&attire_type=test&weather_type=1&sleeve_type=1&device_token=333333</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>getInventoryList</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/getInventoryList
+    [user_id] => 1
+    [session_code] => 6hQie6hQieGRklk6hQie
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/getInventoryList&user_id=1&session_code=6hQie6hQieGRklk6hQie'> http://localhost/silkinventory/index.php?r=api/getInventoryList&user_id=1&session_code=6hQie6hQieGRklk6hQie</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>getInventoryList</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/getInventoryList
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/getInventoryList&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg'> http://localhost/silkinventory/index.php?r=api/getInventoryList&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>index</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api'> http://localhost/silkinventory/index.php?r=api</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>deleteInventory</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/deleteInventory
+    [invenotry_id] => 1
+    [user_id] => 1
+    [session_code] => 111111
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/deleteInventory&invenotry_id=1&user_id=1&session_code=111111'> http://localhost/silkinventory/index.php?r=api/deleteInventory&invenotry_id=1&user_id=1&session_code=111111</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>deleteInventory</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/deleteInventory
+    [invenotry_id] => 3
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/deleteInventory&invenotry_id=3&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg'> http://localhost/silkinventory/index.php?r=api/deleteInventory&invenotry_id=3&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>deleteInventory</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/deleteInventory
+    [inventory_id] => 3
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/deleteInventory&inventory_id=3&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg'> http://localhost/silkinventory/index.php?r=api/deleteInventory&inventory_id=3&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>index</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api'> http://localhost/silkinventory/index.php?r=api</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => 6hQie6hQieGRklk6hQie
+    [temprature] => 80
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&user_id=1&session_code=6hQie6hQieGRklk6hQie&temprature=80'> http://localhost/silkinventory/index.php?r=api/ask&user_id=1&session_code=6hQie6hQieGRklk6hQie&temprature=80</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [temprature] => 80
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [temprature] => 80
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [temprature] => 80
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [temprature] => 80
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [temprature] => 80
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [temprature] => 80
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [temprature] => 80
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [temprature] => 80
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [temprature] => 80
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [temprature] => 80
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [temprature] => 80
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&temprature=80</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [lat] => 22.73
+    [long] => 73.45
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&lat=22.73&long=73.45</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+    [color] => red|pumpkin orange|pumpkin orange|light mustard|bright yellow|pear|medium pink|faded orange|indigo blue|lipstick|grass|greeny blue
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg&color=red|pumpkin%20orange|pumpkin%20orange|light%20mustard|bright%20yellow|pear|medium%20pink|faded%20orange|indigo%20blue|lipstick|grass|greeny%20blue</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>ask</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/ask
+    [user_id] => 1
+    [session_code] => zZFVgzZFVgz47u8zZFVg
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg'> http://localhost/silkinventory/index.php?r=api/ask&&user_id=1&session_code=zZFVgzZFVgz47u8zZFVg</a></div>

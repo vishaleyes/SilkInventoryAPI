@@ -1,0 +1,28 @@
+/* here you can put your own css to customize and override the theme */
+/* Pagination */
+
+.yiiPager	{ float:right; *margin:-35px 0px 0px 0px; padding:0px; }
+ul.yiiPager { font-size:11px; border:0; display:block;}
+
+
+ul.yiiPager li{display:block; float:left; margin:0px 3px;}
+ul.yiiPager li a{ display:block; line-height:17px; color:#666; border:none !important;  padding: 0 !important;}
+.pagination		{ margin:5px 0px 0px 0px; padding:5px 0px 15px 0px; *padding:10px 0px 0px 0px; height:28px; line-height:38px; text-align:right !important; color:#81678a; font-size:12px; font-family: 'Droid Sans Mono', arial, serif;}
+.pagination label{ float: right; line-height:18px; color:#666; margin:3px 5px 0 3px; *margin-top:-35px;}
+ul.yiiPager li.previous-hidden{ display:block; background:url(../img/pagination.png) no-repeat -96px top; width:22px; height:21px;}
+ul.yiiPager li.previous{ display:block; background:url(../img/pagination.png) no-repeat -120px top; width:22px; height:21px;}
+
+ul.yiiPager li.first-hidden{ display:block; background:url(../img/pagination.png) no-repeat -24px top; width:22px; height:21px;}
+ul.yiiPager li.first{ display:block; background:url(../img/pagination.png) no-repeat 0px top; width:22px; height:21px;}
+
+ul.yiiPager li.next-hidden{ display:block; background:url(../img/pagination.png) no-repeat -144px top; width:22px; height:21px;}
+ul.yiiPager li.next{ display:block; background:url(../img/pagination.png) no-repeat -168px top; width:22px; height:21px;}
+
+ul.yiiPager li.last-hidden{ display:block; background:url(../img/pagination.png) no-repeat -48px top; width:22px; height:21px;}
+ul.yiiPager li.last{ display:block; background:url(../img/pagination.png) no-repeat -72px top; width:22px; height:21px;}
+
+ul.yiiPager li.page{ display:block; width:22px; font-size:11px; line-height:23px; height:21px; color:#555; text-align:center;}
+ul.yiiPager li.page:hover{ display:block; width:20px; font-size:11px; line-height:21px; height:19px; 
+				border-radius:2px; color:#333; background:#F3F2F2; border:1px solid #7AA726;}
+ul.yiiPager li.selected	{ display:block; width:20px; font-size:11px; line-height:23px; height:19px; 
+				  border-radius:2px; color:#333; background:#F3F2F2; border:1px solid #7AA726;}
